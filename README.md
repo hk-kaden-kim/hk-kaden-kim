@@ -18,7 +18,7 @@ Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | 
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-_.svg?logo=tensorflow"></a>
   <a href="#"><img src="https://img.shields.io/badge/Numpy-Expert-_.svg?logo=numpy"></a>
   <a href="#"><img src="https://img.shields.io/badge/Scipy-Expert-_.svg?logo=scipy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scikit-Learn-Expert-_.svg?logo=scikit-learn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/ScikitLearn-Expert-_.svg?logo=scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-Expert-_.svg?logo=pandas"></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
