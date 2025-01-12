@@ -1,11 +1,16 @@
+___“Sense the world, Analyze the data, and Extract the value.”___
+
 Hello there 👋
 
-I am now a master's student in AI and Data Science at the University of Zurich.
+I am an artificial intelligence expert who combines mechanical engineering and sensing technology. I understand data processes, from gathering and cleansing to analysis and ML model training.
+
     
 Professional Skills
+
 Machine Learning | Deep Learning | Computer Vision | Open-set Recognition | Self-supervised learning | Agentic AI | Network Analysis | Anomaly detection | Recommendation System | Data Visualization | Data Analysis | Data Management | Database design
 
 Domain Knowledge
+
 Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | Autonomous Driving | Test and Measurement | Automated system | Signal Processing
 
 <p>
