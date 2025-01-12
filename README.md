@@ -14,6 +14,8 @@ __Domain Knowledge__
 
 Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | Autonomous Driving | Test and Measurement | Automated system | Signal Processing
 
+__Tech Stack__
+
 <p>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-Expert-_.svg?logo=pytorch"></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-_.svg?logo=tensorflow"></a>
