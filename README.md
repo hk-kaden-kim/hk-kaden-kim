@@ -24,8 +24,9 @@ Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | 
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Proficient-_.svg?logo=PostgreSQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/D3-Proficient-_.svg?logo=D3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/docker-Proficient_.svg?logo=docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/git-Proficient_.svg?logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/p5js-Proficient-_.svg?logo=p5.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-Proficient-_.svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-_.svg?logo=git"></a>
 </p>
 
 Thanks for visiting!
