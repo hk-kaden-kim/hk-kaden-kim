@@ -3,8 +3,8 @@ Hello there 👋
 I am now a master's student in AI and Data Science at the University of Zurich.
 
 <p>
-  <a href="https://www.linkedin.com/in/hyeongkyun-kaden-kim/"><img src="https://img.shields.io/badge/LinkedIn-Profile-_.svg></a>
-  <a href="https://huggingface.co/hk-kaden-kim"><img src="https://img.shields.io/badge/HuggingFace-Profile-_.svg></a>                 
+  <a href="https://www.linkedin.com/in/hyeongkyun-kaden-kim/"><img src="https://img.shields.io/badge/LinkedIn-Profile-_.svg?logo=linkedin></a>
+  <a href="https://huggingface.co/hk-kaden-kim/"><img src="https://img.shields.io/badge/HuggingFace-Profile-_.svg?logo=huggingface></a>                 
 </p>
     
 Professional Skills
