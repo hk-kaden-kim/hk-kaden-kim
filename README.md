@@ -16,20 +16,17 @@ Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-Expert-_.svg?logo=pytorch"></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-_.svg?logo=tensorflow"></a>
+  <a href="#"><img src="https://img.shields.io/badge/ScikitLearn-Expert-_.svg?logo=scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Numpy-Expert-_.svg?logo=numpy"></a>
   <a href="#"><img src="https://img.shields.io/badge/Scipy-Expert-_.svg?logo=scipy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/ScikitLearn-Expert-_.svg?logo=scikit-learn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-Expert-_.svg?logo=pandas"></a>
+  <a href="#"><img src="https://img.shields.io/badge/NetworkX-Proficient-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Proficient-_.svg?logo=PostgreSQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/D3-Proficient-_.svg?logo=D3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/p5js-_.svg?logo=p5.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/docker-_.svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/git-_.svg?logo=git"></a>
 </p>
-
-PyTorch, Tensorflow, LangChain, NetworkX, Numpy, Pandas, Scipy, Scikit-learn
-PostgreSQL, MongoDB, Neo4j, Hadoop, Spark, GCP, AWS, D3, p5
-Object Detection, Segmentation, Open-set Classification
-Named Entity Recognition, Text Categorizer, Retrieval-Augmented Generation
-Knowledge Graph Embedding, Collaborative Filtering
-
-Python, Java, LabVIEW, Docker, Git
 
 Thanks for visiting!
