@@ -2,7 +2,7 @@ ___“Sense the world, Analyze the data, and Extract the value.”___
 
 Hello there 👋
 
-I am an artificial intelligence expert who combines mechanical engineering and sensing technology. I understand data processes, from gathering and cleansing to analysis and ML model training.
+I am an artificial intelligence expert who combines mechanical engineering and sensing technology. I am passionate about building data processes, from gathering and cleansing to analysis and ML model training.
 
 Thanks for visiting!
 
