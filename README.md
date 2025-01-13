@@ -27,9 +27,9 @@ AI-related Python Library
   <a href="#"><img src="https://img.shields.io/badge/Numpy-Expert-_.svg?logo=numpy"></a>
   <a href="#"><img src="https://img.shields.io/badge/Scipy-Expert-_.svg?logo=scipy"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-Expert-_.svg?logo=pandas"></a>
-  <a href="#"><img src="https://img.shields.io/badge/NetworkX-Proficient-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/NetworkX-Proficient-purple.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
-  <a href="#"><img src="https://img.shields.io/badge/spaCy-Competent-_.svg?logo=spacy"></a>
+  <a href="#"><img src="https://img.shields.io/badge/spaCy-Competent-orange.svg?logo=spacy"></a>
   <a href="#"><img src="https://img.shields.io/badge/GDAL-Competent-_.svg?logo=gdal"></a>
   <a href="#"><img src="https://img.shields.io/badge/TorchGeo-Competent-_.svg?logo=torchgeo"></a>
 </p>
