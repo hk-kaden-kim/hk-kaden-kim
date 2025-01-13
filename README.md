@@ -28,10 +28,10 @@ AI-related Python Library
   <a href="#"><img src="https://img.shields.io/badge/Scipy-Expert-_.svg?logo=scipy"></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-Expert-_.svg?logo=pandas"></a>
   <a href="#"><img src="https://img.shields.io/badge/NetworkX-Proficient-purple.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-purple.svg?logo=langchain"></a>
   <a href="#"><img src="https://img.shields.io/badge/spaCy-Competent-orange.svg?logo=spacy"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GDAL-Competent-_.svg?logo=gdal"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TorchGeo-Competent-_.svg?logo=torchgeo"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GDAL-Competent-orange.svg?logo=gdal"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TorchGeo-Competent-orange.svg?logo=torchgeo"></a>
 </p>
 
 Other highlights
@@ -39,9 +39,9 @@ Other highlights
   <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Expert-_.svg?logo=PostgreSQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/LabVIEW-Expert-_.svg?logo=labview"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-_.svg?logo=git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-Proficient-_.svg?logo=docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/QGIS-Competent-_.svg?logo=qgis"></a>
-  <a href="#"><img src="https://img.shields.io/badge/D3-Competent-_.svg?logo=D3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/p5js-Competent-_.svg?logo=p5.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-purple.svg?logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-Proficient-purple.svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/QGIS-Competent-orange.svg?logo=qgis"></a>
+  <a href="#"><img src="https://img.shields.io/badge/D3-Competent-orange.svg?logo=D3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/p5js-Competent-orange.svg?logo=p5.js"></a>
 </p>
