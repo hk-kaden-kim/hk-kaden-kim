@@ -19,6 +19,7 @@ Artificial Intelligence | Computer Science | Remote Sensing | Wearable device | 
 
 __Tech Stack__
 
+AI-related Python Library
 <p>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-Expert-_.svg?logo=pytorch"></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-Expert-_.svg?logo=tensorflow"></a>
@@ -28,9 +29,18 @@ __Tech Stack__
   <a href="#"><img src="https://img.shields.io/badge/Pandas-Expert-_.svg?logo=pandas"></a>
   <a href="#"><img src="https://img.shields.io/badge/NetworkX-Proficient-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Proficient-_.svg?logo=PostgreSQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/D3-Proficient-_.svg?logo=D3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/p5js-Proficient-_.svg?logo=p5.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-Proficient-_.svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/spaCy-Competent-_.svg?logo=spacy"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GDAL-Competent-_.svg?logo=gdal"></a>
+</p>
+
+Other highlights
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=PostgreSQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Expert-_.svg?logo=PostgreSQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LabVIEW-Expert-_.svg?logo=labview"></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-_.svg?logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-Proficient-_.svg?logo=docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/QGIS-Competent-_.svg?logo=qgis"></a>
+  <a href="#"><img src="https://img.shields.io/badge/D3-Competent-_.svg?logo=D3"></a>
+  <a href="#"><img src="https://img.shields.io/badge/p5js-Competent-_.svg?logo=p5.js"></a>
 </p>
