@@ -35,7 +35,7 @@ AI-related Python Library
 
 Other highlights
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=PostgreSQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-Expert-_.svg?logo=PostgreSQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/LabVIEW-Expert-_.svg?logo=labview"></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-Proficient-_.svg?logo=git"></a>
