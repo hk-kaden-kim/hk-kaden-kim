@@ -31,6 +31,7 @@ AI-related Python Library
   <a href="#"><img src="https://img.shields.io/badge/LangChain-Proficient-_.svg?logo=langchain"></a>
   <a href="#"><img src="https://img.shields.io/badge/spaCy-Competent-_.svg?logo=spacy"></a>
   <a href="#"><img src="https://img.shields.io/badge/GDAL-Competent-_.svg?logo=gdal"></a>
+  <a href="#"><img src="https://img.shields.io/badge/torchgeo-Competent-_.svg?logo=torchgeo"></a>
 </p>
 
 Other highlights
