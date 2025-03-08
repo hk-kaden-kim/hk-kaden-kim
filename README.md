@@ -6,8 +6,10 @@ I am an artificial intelligence expert who combines mechanical engineering and s
 
 Thanks for visiting!
 
-[![Linkedin Badge](https://img.shields.io/badge/-hk%20kaden%20kim-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeongkyun-kaden-kim/)](https://www.linkedin.com/in/hyeongkyun-kaden-kim/)
-[![Gmail Badge](https://img.shields.io/badge/-kreative24hk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kreative24hk@gmail.com)](mailto:kreative24hk@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyeongkyun-kaden-kim/)](https://www.linkedin.com/in/hyeongkyun-kaden-kim/)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kreative24hk@gmail.com)](mailto:kreative24hk@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/hk-kaden-kim)](https://github.com/hk-kaden-kim)
+[![Huggingface Badge](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black&link=https://huggingface.co/hk-kaden-kim)](https://huggingface.co/hk-kaden-kim)
 
 __Professional Skills__
 
