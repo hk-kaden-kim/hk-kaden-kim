@@ -1,4 +1,4 @@
-___“Sense the world, Analyze the data, and Extract the value.”___
+___“Sense the world, Analyze the data, and Extract the value. Let's accelerate engineering together!”___
 
 Hello there 👋
 
